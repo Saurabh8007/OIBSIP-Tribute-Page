@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: rgb(2, 30, 37);
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#name {
+    color: rgb(15, 9, 1);
+    background-color: rgb(152, 240, 240);
+    border-left: width 125px;
+    margin-left: 125px;
+    margin-right: 125px;
+   padding: 20px;
+}
+
+#photo {
+    border-radius: 2%;
+    box-shadow: 2px 2px 6px coral;
+    
+}
+.biography {
+    color: antiquewhite;
+}
+
+
